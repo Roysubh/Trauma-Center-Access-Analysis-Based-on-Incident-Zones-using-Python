@@ -70,10 +70,10 @@ G → H[🗺️ Visualize in Folium Interactive Map]
       Interactive visualization of incident points, trauma centers, and routes by zone
 
 ✍️ Author: Subham Roy ✨🌟
-    subhamofficwork@gmail.com 
-    https://www.linkedin.com/in/subham-roy-601867167/ 
-    https://scholar.google.com/citations?user=bTxDrQgAAAAJ&hl=en 
-    https://www.researchgate.net/profile/Subham-Roy-14
+    📧 Email: subhamofficwork@gmail.com 
+    🔗 LinkedIn: https://www.linkedin.com/in/subham-roy-601867167/ 
+    📚 Google Scholar: https://scholar.google.com/citations?user=bTxDrQgAAAAJ&hl=en 
+    📝 ResearchGate: https://www.researchgate.net/profile/Subham-Roy-14
 
 ✅ Conclusion:
   This project demonstrates a comprehensive Python-based geospatial workflow for analyzing trauma center accessibility from multiple incident points. By integrating open-source road network data, simulated incident locations, and hospital POIs, we were able to:
