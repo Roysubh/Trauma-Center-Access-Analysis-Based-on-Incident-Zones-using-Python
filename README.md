@@ -1,0 +1,2 @@
+# Trauma-Center-Access-Analysis-Based-on-Incident-Zones-using-Python
+Python-based analysis of trauma center accessibility from multiple incident points in Kolkata. Computes multi-origin multi-destination OD cost matrices using OpenStreetMap road networks and hospital locations. Routes are classified into Safe, Warning, and Danger zones, with GIS-ready outputs and interactive maps for emergency planning.
